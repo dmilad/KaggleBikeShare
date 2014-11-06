@@ -27,9 +27,13 @@ log(x) is the natural logarithm
 Your submission file must have a header and should be structured in the following format:
 
 datetime,count
+
 2011-01-20 00:00:00,0
+
 2011-01-20 01:00:00,0
+
 2011-01-20 02:00:00,0
+
 ...
 
 
