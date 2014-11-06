@@ -17,9 +17,13 @@ sqrt( 1/n * ∑( log(pi + 1) − log(ai + 1) )^2 )
 Where:
 
 n is the number of hours in the test set
+
 pi is your predicted count
+
 ai is the actual count
+
 log(x) is the natural logarithm
+
 
 
 ##Submission Format
